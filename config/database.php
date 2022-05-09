@@ -32,7 +32,7 @@ return [
     */
 
     // 'default' => env('DB_CONNECTION', 'your_heroku_mysql_connection'),
-    'default' => env('DB_CONNECTION', 'CLEARDB_DATABASE_URL'),
+    // 'default' => env('DB_CONNECTION', 'CLEARDB_DATABASE_URL'),
 
 
     /*
