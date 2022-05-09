@@ -53,16 +53,16 @@ return [
 
     'connections' => [
 
-        'CLEARDB_DATABASE_URL' => array(
-            'driver' => 'mysql',
-            'host' => $host,
-            'database' => $database,
-            'username' => $username,
-            'password' => $password,
-            'charset' => 'utf8',
-            'collation' => 'utf8_unicode_ci',
-            'prefix' => '',
-        ),
+        // 'CLEARDB_DATABASE_URL' => array(
+        //     'driver' => 'mysql',
+        //     'host' => $host,
+        //     'database' => $database,
+        //     'username' => $username,
+        //     'password' => $password,
+        //     'charset' => 'utf8',
+        //     'collation' => 'utf8_unicode_ci',
+        //     'prefix' => '',
+        // ),
 
 
         'sqlite' => [
