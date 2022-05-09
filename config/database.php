@@ -2,12 +2,21 @@
 
 use Illuminate\Support\Str;
 
+// $url = parse_url(getenv("CLEARDB_DATABASE_URL"));
+
+// $host = $url["host"];
+// $username = $url["user"];
+// $password = $url["pass"];
+// $database = substr($url["path"], 1);
+
 $url = parse_url(getenv("CLEARDB_DATABASE_URL"));
 
-$host = $url["host"];
+$server = $url["host"];
 $username = $url["user"];
 $password = $url["pass"];
-$database = substr($url["path"], 1);
+$db = substr($url["path"], 1);
+
+$conn = new mysqli($server, $username, $password, $db);
 
 return [
 
@@ -22,7 +31,9 @@ return [
     |
     */
 
-    'default' => env('DB_CONNECTION', 'your_heroku_mysql_connection'),
+    // 'default' => env('DB_CONNECTION', 'your_heroku_mysql_connection'),
+    'default' => env('DB_CONNECTION', 'CLEARDB_DATABASE_URL'),
+
 
     /*
     |--------------------------------------------------------------------------
@@ -42,7 +53,7 @@ return [
 
     'connections' => [
 
-        'your_heroku_mysql_connection' => array(
+        'CLEARDB_DATABASE_URL' => array(
             'driver' => 'mysql',
             'host' => $host,
             'database' => $database,
@@ -52,6 +63,7 @@ return [
             'collation' => 'utf8_unicode_ci',
             'prefix' => '',
         ),
+
 
         'sqlite' => [
             'driver' => 'sqlite',
