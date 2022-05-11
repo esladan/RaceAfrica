@@ -38,8 +38,9 @@
          
           <h1 style="font-size: 50px;" class="mb-4" data-aos="fade-up" data-aos-delay="100">IFFA SUMMIT</h1>
            <p data-aos="fade-up" data-aos="fade-up" data-aos-delay="">
-           A summit on sustainability & opportunities to supportyouth<br>
-            involvement in building a sustainable future for Africa <br></p>
+A summit on sustainability, opportunities for future innovations and<br>
+why youth involvement is fundamental to<br>
+building a sustainable future for Africa.</p>
         </div>
       </div>
     </div>
@@ -47,7 +48,7 @@
   <br>
   
 
-   <!-- <div class="slider-item overlay" data-stellar-background-ratio="0.5"
+   <div class="slider-item overlay" data-stellar-background-ratio="0.5"
     style="background-image: url('kn/images/frederick-tadeo-3QA-AQyhvzA-unsplash.jpg'); height: 80hv;">
     <div class="container">
       <div class="row slider-text align-items-center justify-content-center">
@@ -61,7 +62,7 @@
       </div>
     </div>
   </div>
-  <br> -->
+  <br>
   <section class="payment-experience-area bg-f4fcff ptb-70">
 <div class="container">
 <div class="row align-items-center">
@@ -137,7 +138,8 @@ conference to participants</h2>
 <p>
 <h2 style="font-weight: bolder; font-size: 15px;">1. Startup Education:</h2>As a participant, you will learn from
 seasoned experts and experienced founders, educating you on
-how to build a successful organization and how to overcome industry challenges
+how to build a successful organization and tackle the challenges
+in their industries.
 
 <br><br>
 <h2 style="font-weight: bolder; font-size: 15px;">2. Build Valuable Connections:</h2> This conference will bring
@@ -213,28 +215,35 @@ The conference will address issues on</p>
 <div class="col-lg-3 col-sm-6 col-md-6">
 <div class="single-payment-experience-box">
 <div >
-<img style="width:100%" src="{{asset('kn/images/download.png')}}">
+<img style="width:100%" src="{{asset('kn/images/1.jpg')}}">
 </div>
 </div>
 </div>
 <div class="col-lg-3 col-sm-6 col-md-6">
 <div class="single-payment-experience-box">
 <div >
-<img style="width:100%" src="{{asset('kn/images/3.png')}}">
+<img style="width:100%" src="{{asset('kn/images/2.jpg')}}">
 </div>
 </div>
 </div>
 <div class="col-lg-3 col-sm-6 col-md-6">
 <div class="single-payment-experience-box">
 <div >
-<img style="width:100%" src="{{asset('kn/images/2.png')}}">
+<img style="width:100%" src="{{asset('kn/images/3.jpg')}}">
 </div>
 </div>
 </div>
 <div class="col-lg-3 col-sm-6 col-md-6">
 <div class="single-payment-experience-box">
 <div >
-<img width="100%" src="{{asset('/kn/images/6.png')}}">
+<img width="100%" src="{{asset('/kn/images/4.jpg')}}">
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-sm-6 col-md-6">
+<div class="single-payment-experience-box">
+<div >
+<img style="width:100%" src="{{asset('kn/images/5.jpg')}}">
 </div>
 </div>
 </div>
@@ -252,33 +261,35 @@ The conference will address issues on</p>
 <h1>Date & Duration, Conference Fee</h1>
 <p class="col-lg-15">The IFFA Summit will welcome hundreds of young pioneers, business leaders, change makers and
 seasoned guest speakers for a 3 days conference experience full of activation as we approach our
-Anniversary celebrating 365 days of Advancing youth leadership for social impact in Africa.
-Conference Date: 14th of July to 16th July 2022
-Location: City of Abuja,Nigeria
+Anniversary celebrating 365 days of Advancing youth leadership for social impact in Africa.<br><br> 
+Conference Date: 14th of July to 16th July 2022<br>
+Location: City of Abuja,Nigeria<br>
 Conference Fee: N20,000 will cover for your accommodation, feeding, healthcare, conference
-materials and the entire experire
+materials and the entire experirence
 </p></div>
 </div>
 </div>
 </div>
   <br>
-  <div class=" container-fluid slider-item overlay" data-stellar-background-ratio="0.5" 
-    style="background-image: url('kn/images/frederick-tadeo-3QA-AQyhvzA-unsplash.jpg');  height: 80hv;">
-    <div class="container">
-      <div class="row slider-text align-items-center justify-content-center">
-        <div class="col-lg-12 text-center col-sm-12">
-         
-          <h1 style="font-size: 60px;" class="mb-4" data-aos="fade-up" data-aos-delay="100">JOIN OVER 500 INNOVATORS
+
+   <div class="main-banner jarallax">
+<dv class="d-table">
+<div class="d-table-cell">
+<div class="container">
+<div class="main-banner-content">
+<h1>JOIN OVER 500 INNOVATORS
 DECIDE FUTURE AFRICA AT
 IFFA SUMMIT</h1>
-<h2 style="color: white;">We are excited about IFFA SUMMIT because of the impact it will have on young leaders and
+<p class="col-lg-15">
+  We are excited about IFFA SUMMIT because of the impact it will have on young leaders and
 innovators who will attend this conference. We strongly believe in the power of young people
-around Africa to lead us into the Future.</h2>
+around Africa to lead us into the Future.<br>
 <a href="{{url('/iffareg')}}" class="btn btn-primary">Get Started</a>
-        </div>
-      </div>
-    </div>
-  </div>
+<br>
+</p></div>
+</div>
+</div>
+</div>
   <br>
    <section class="payment-experience-area bg-f4fcff ptb-70">
 <div class="container">
@@ -296,20 +307,9 @@ to confirmed attendees weeks before the conference
 together the best minds on the continent and will also attract
 Industry experts you can connect with.<br><br>
 
-<h2 style="font-weight: bolder; font-size: 15px;">3(a). How much is the conference fee and what does it cover?:</h2>The
+<h2 style="font-weight: bolder; font-size: 15px;">3. How much is the conference fee and what does it cover?:</h2>The
 conference fee is N20,000 and it covers your hotel accommodation,
 feeding, healthcare, and conference materials<br><br>
-
-<h2 style="font-weight: bolder; font-size: 15px;">3(b). Can I attend the conference without having to lodge at the provided if I am based in Abuja or
- I have an alternative place to stay?:</h2>
- Yes, you can, but you will have to pay a conference fee of N12,000 to cover your feeding, 
- Anniversary dinner/gala night ticket, conference materials, and the entire experience we are set to deliver
- <br><br>
-
- <h2 style="font-weight: bolder; font-size: 15px;">3(c). 3(c)  What more should we expect from IFFA summit?</h2>
- IFFA Summit will be an electrifying space filled with youthful energy, we will have 
- social activities as well, like game nights, karaoke, bonding  sessions and lot more
- <br><br>
 
 <h2 style="font-weight: bolder; font-size: 15px;">4. What other information would matter to me?:</h2>You don't have to
 travel alone if you are coming from Afar, you can join young leaders
