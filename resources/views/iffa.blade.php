@@ -38,9 +38,8 @@
          
           <h1 style="font-size: 50px;" class="mb-4" data-aos="fade-up" data-aos-delay="100">IFFA SUMMIT</h1>
            <p data-aos="fade-up" data-aos="fade-up" data-aos-delay="">
-A summit on sustainability, opportunities for future innovations and<br>
-why youth involvement is fundamental to<br>
-building a sustainable future for Africa.</p>
+           A summit on sustainability & opportunities to supportyouth<br>
+            involvement in building a sustainable future for Africa <br></p>
         </div>
       </div>
     </div>
@@ -138,8 +137,7 @@ conference to participants</h2>
 <p>
 <h2 style="font-weight: bolder; font-size: 15px;">1. Startup Education:</h2>As a participant, you will learn from
 seasoned experts and experienced founders, educating you on
-how to build a successful organization and tackle the challenges
-in their industries.
+how to build a successful organization and how to overcome industry challenges
 
 <br><br>
 <h2 style="font-weight: bolder; font-size: 15px;">2. Build Valuable Connections:</h2> This conference will bring
@@ -298,9 +296,20 @@ to confirmed attendees weeks before the conference
 together the best minds on the continent and will also attract
 Industry experts you can connect with.<br><br>
 
-<h2 style="font-weight: bolder; font-size: 15px;">3. How much is the conference fee and what does it cover?:</h2>The
+<h2 style="font-weight: bolder; font-size: 15px;">3(a). How much is the conference fee and what does it cover?:</h2>The
 conference fee is N20,000 and it covers your hotel accommodation,
 feeding, healthcare, and conference materials<br><br>
+
+<h2 style="font-weight: bolder; font-size: 15px;">3(b). Can I attend the conference without having to lodge at the provided if I am based in Abuja or
+ I have an alternative place to stay?:</h2>
+ Yes, you can, but you will have to pay a conference fee of 12k to cover your feeding, 
+ Anniversary dinner/gala night ticket, conference materials, and the entire experience we are set to deliver
+ <br><br>
+
+ <h2 style="font-weight: bolder; font-size: 15px;">3(c). 3(c)  What more should we expect from IFFA summit?</h2>
+ IFFA Summit will be an electrifying space filled with youthful energy, we will have 
+ social activities as well, like game nights, karaoke, bonding  sessions and lot more
+ <br><br>
 
 <h2 style="font-weight: bolder; font-size: 15px;">4. What other information would matter to me?:</h2>You don't have to
 travel alone if you are coming from Afar, you can join young leaders
