@@ -47,7 +47,7 @@
   <br>
   
 
-   <div class="slider-item overlay" data-stellar-background-ratio="0.5"
+   <!-- <div class="slider-item overlay" data-stellar-background-ratio="0.5"
     style="background-image: url('kn/images/frederick-tadeo-3QA-AQyhvzA-unsplash.jpg'); height: 80hv;">
     <div class="container">
       <div class="row slider-text align-items-center justify-content-center">
@@ -61,7 +61,7 @@
       </div>
     </div>
   </div>
-  <br>
+  <br> -->
   <section class="payment-experience-area bg-f4fcff ptb-70">
 <div class="container">
 <div class="row align-items-center">
@@ -302,7 +302,7 @@ feeding, healthcare, and conference materials<br><br>
 
 <h2 style="font-weight: bolder; font-size: 15px;">3(b). Can I attend the conference without having to lodge at the provided if I am based in Abuja or
  I have an alternative place to stay?:</h2>
- Yes, you can, but you will have to pay a conference fee of 12k to cover your feeding, 
+ Yes, you can, but you will have to pay a conference fee of N12,000 to cover your feeding, 
  Anniversary dinner/gala night ticket, conference materials, and the entire experience we are set to deliver
  <br><br>
 
