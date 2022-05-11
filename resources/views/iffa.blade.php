@@ -16,7 +16,7 @@
     </div>
   </div>
   <br>
-  
+    
   <div class="slider-item overlay" data-stellar-background-ratio="0.5"
     style="background-image: url('kn/images/frederick-tadeo-3QA-AQyhvzA-unsplash.jpg');">
     <div class="container">
