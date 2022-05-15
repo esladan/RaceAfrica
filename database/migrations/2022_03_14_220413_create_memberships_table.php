@@ -29,6 +29,7 @@ return new class extends Migration
             $table->string('do')->nullable();
             $table->text('ex')->nullable();
             $table->string('please')->nullable();
+            $table->string('gender')->nullable();
             $table->timestamps();
         });
     }

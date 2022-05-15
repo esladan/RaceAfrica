@@ -43,14 +43,14 @@ class MembershipController extends Controller
         Membership::create($request->all() );
         if($request->please){
             $message = '
-     Thank you for registering to be a part of IFFA Summit 2022. We are so existed about your decision to
+     Thank you for registering to be a part of IFFA Summit 2022. We are so excited about your decision to
 attend the conference this July, you details have been recorded, and you will be contacted by one of the
 Leader of Delegates to confirm your participation and share other information about the conference.';
              Mail::to($request->email)->send(new MemberWelcomeEmail());
         }else{
             $message = 'Response
 Hello There,
-Thank you for registering to be a part of IFFA Summit 2022. We are so existed about your decision to
+Thank you for registering to be a part of IFFA Summit 2022. We are so excited about your decision to
 attend the conference this July, you details have been recorded, and you will be contacted by one of the
 Leader of Delegates to confirm your participation and share other information about the conference.';
         }

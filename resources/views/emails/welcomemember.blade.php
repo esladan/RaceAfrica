@@ -186,8 +186,8 @@
                   <td bgcolor="#ffffff" align="left" style="padding: 24px; font-size: 16px; line-height: 24px;">
                     <h1 style="margin: 0 0 12px; font-family: 'Merriweather Bold', serif; font-size: 32px; font-weight: 400; line-height: 48px;">Hello There,</h1>
                     <p style="font-family: 'Merriweather', serif; margin: 20px 0;"></p>
-Thank you for registering to be a part of IFFA Summit 2022. We are so existed about your decision to
-attend the conference this July, you details have been recorded, and you will be contacted by one of the
+Thank you for registering to be a part of IFFA Summit 2022. We are so excited about your decision to
+attend the conference this July, your details have been recorded, and you will be contacted by one of the
 Leader of Delegates to confirm your participation and share other information about the conference.
                     <p style="font-family: 'Merriweather', serif; margin: 20px 0;"><h2 style="font-weight: 400;">Kindly note:</h2>
                      EARLY Payments of Delegate fees will help us plan better and make it easy for us to make all the

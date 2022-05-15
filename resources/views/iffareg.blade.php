@@ -44,6 +44,19 @@
                                 <input type="text" name="other_names" id="other_names" required />
                             </div>
                         </div>
+
+                         <div class="form-group">
+                            <label for="gender">Gender</label>
+                            <div class="form-select">
+                                <select name="gender" id="gender">
+                                    <option value="">Choose...</option>
+                                     <option value="Male">Male</option>
+                                    <option value="Female">Female</option>
+                                </select>
+                                <span class="select-icon"><i class="zmdi zmdi-chevron-down"></i></span>
+                            </div>
+                        </div>
+
                         <div class="form-group">
                             <label for="email">Email Address :</label>
                             <input type="text" name="email" id="email" required />
@@ -66,11 +79,13 @@
                             <input type="text" name="csr" id="csr">
                         </div>
 
-
                         <div class="form-group">
-                            <label for="uni">University</label>
-                            <input type="text" name="uni" id="uni" required />
+                             <label for="uni">Are You Still a Student ? If Yes State/Prefered not to Say.</label>
+                            <input type="text" name="uni" id="uni">
                         </div>
+
+                        
+
 
                         <div class="form-group">
                             <label for="wi">What industry are you innovating for </label>
@@ -81,24 +96,14 @@
                                     <option value="Education">Education</option>
                                     <option value="Agriculture">Agriculture</option>
                                     <option value="Fintech">Fintech</option>
+                                     <option value="Tech">Tech</option>
                                     <option value="Others">Others</option>
                                 </select>
                                 <span class="select-icon"><i class="zmdi zmdi-chevron-down"></i></span>
                             </div>
                         </div>
 
-                         <div class="form-group">
-                            <label for="are">Are You a</label>
-                            <div class="form-select">
-                                <select name="are" id="are">
-                                    <option value="">Choose...</option>
-                                    <option value="Student<">Student</option>
-                                    
-                                    <option value="Graduate">Graduate</option>
-                                </select>
-                                <span class="select-icon"><i class="zmdi zmdi-chevron-down"></i></span>
-                            </div>
-                        </div>
+                         
                         
                          <div class="form-group">
                             <label for="how">How did you get to hear about the conference</label>
@@ -143,6 +148,7 @@
                             <textarea name="please" id="please" cols="30" rows="10"></textarea>
                         </div>
 
+                        
 
                         <div class="form-submit">
 

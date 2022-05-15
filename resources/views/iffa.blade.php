@@ -16,14 +16,14 @@
     </div>
   </div>
   <br>
-    
+  
   <div class="slider-item overlay" data-stellar-background-ratio="0.5"
     style="background-image: url('kn/images/frederick-tadeo-3QA-AQyhvzA-unsplash.jpg');">
     <div class="container">
       <div class="row slider-text align-items-center justify-content-center">
         <div class="col-lg-12 text-center col-sm-12">
          
-          <h1 style="font-size: 80px;" class="mb-4" data-aos="fade-up" data-aos-delay="100">JULLY 2022.</h1>
+          <h1 style="font-size: 80px;" class="mb-4" data-aos="fade-up" data-aos-delay="100">JULY 2022.</h1>
         </div>
       </div>
     </div>
@@ -38,26 +38,9 @@
          
           <h1 style="font-size: 50px;" class="mb-4" data-aos="fade-up" data-aos-delay="100">IFFA SUMMIT</h1>
            <p data-aos="fade-up" data-aos="fade-up" data-aos-delay="">
-A summit on sustainability, opportunities for future innovations and<br>
+A summit on sustainability & opportunities to support youth involvement in<br>
 why youth involvement is fundamental to<br>
 building a sustainable future for Africa.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <br>
-  
-
-   <div class="slider-item overlay" data-stellar-background-ratio="0.5"
-    style="background-image: url('kn/images/frederick-tadeo-3QA-AQyhvzA-unsplash.jpg'); height: 80hv;">
-    <div class="container">
-      <div class="row slider-text align-items-center justify-content-center">
-        <div class="col-lg-12 text-center col-sm-12">
-         
-          <h1 style="font-size: 50px;" class="mb-4" data-aos="fade-up" data-aos-delay="100">IFFA SUMMIT</h1>
-           <p data-aos="fade-up" data-aos="fade-up" data-aos-delay="">
-           Connecting young African innovators and creatives to industry<br>
-              opportunities to build Future Africa<br><br><br><br>This July, 2022</p>
         </div>
       </div>
     </div>
@@ -138,9 +121,7 @@ conference to participants</h2>
 <p>
 <h2 style="font-weight: bolder; font-size: 15px;">1. Startup Education:</h2>As a participant, you will learn from
 seasoned experts and experienced founders, educating you on
-how to build a successful organization and tackle the challenges
-in their industries.
-
+how to build a successful organization and how to overcome industry challenges.
 <br><br>
 <h2 style="font-weight: bolder; font-size: 15px;">2. Build Valuable Connections:</h2> This conference will bring
 together the best minds on the continent and will also attract
@@ -265,7 +246,7 @@ Anniversary celebrating 365 days of Advancing youth leadership for social impact
 Conference Date: 14th of July to 16th July 2022<br>
 Location: City of Abuja,Nigeria<br>
 Conference Fee: N20,000 will cover for your accommodation, feeding, healthcare, conference
-materials and the entire experirence
+materials and the entire experience
 </p></div>
 </div>
 </div>
@@ -284,7 +265,7 @@ IFFA SUMMIT</h1>
   We are excited about IFFA SUMMIT because of the impact it will have on young leaders and
 innovators who will attend this conference. We strongly believe in the power of young people
 around Africa to lead us into the Future.<br>
-<a href="{{url('/iffareg')}}" class="btn btn-primary">Get Started</a>
+<a href="{{url('/iffareg')}}" class="btn btn-primary">Register Now</a>
 <br>
 </p></div>
 </div>
@@ -317,7 +298,14 @@ traveling for the conference from your City, secondly, you can register
 for the conference and pay the conference fee 1 month to the
 conference I,e mid-June. ( No payment is received at the venue)<br><br>other details, like conference schedule, conference venue, and travel
 assistance will be provided only for Confirmed attendees.
+<br><br>
+
+<h2 style="font-weight: bolder; font-size: 15px;">4(b). Can i attend the conference without having to lodge at the hotel provided if i am based in Abuja or i have an alternative place to stay?</h2>Yes, you can. but you will have to pay a conference fee of 20k to cover your feeding, Anniversary dinner/gala night ticket, conference materials, and the entire experience we are set to deliver.<br><br>
 </p>
+
+<h2 style="font-weight: bolder; font-size: 15px;">4(c). What more should we expect from IFFA Summit?</h2>IFFA Summit will be an electrifying space filled with youthful energy, we will have social activities as well, like game nights, karaoke, bonding sessions and a lot more.
+</p>
+
 
 </div>
 </div>
